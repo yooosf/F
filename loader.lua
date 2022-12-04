@@ -1,4 +1,4 @@
-local success, result = pcall(game.HttpGet, game, "https://raw.githubusercontent.com/yoo123fd/f/master/initialize.lua")
+local success, result = pcall(game.HttpGet, game, "https://raw.githubusercontent.com/yooosf/FF/main/initialize.lua")
 if success then
     loadstring(result)()
 else
