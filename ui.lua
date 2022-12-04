@@ -265,7 +265,7 @@ function Library:AddWindow(options)
 		Type = "Window",
 		Tabs = {},
 		Sidebar = { List = {}, Toggled = false },
-		Key = options.key or Enum.KeyCode.RightControl,
+		Key = options.key or Enum.KeyCode.LeftControl,
 		Toggled = options.default ~= false,
 	}
 
