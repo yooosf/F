@@ -1,2 +1,2 @@
 # Texas Christian University
-Football Fusion Script
+Horned Frogs - FF2 SCRIPT
