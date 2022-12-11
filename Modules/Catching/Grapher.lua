@@ -8,7 +8,7 @@ end
 
 Grapher.Marker = Instance.new("Part")
 Grapher.Marker.Anchored = true
-Grapher.Marker.Transparency = .69
+Grapher.Marker.Transparency = .80
 Grapher.Marker.Color = Color3.fromRGB(255, 89, 89)
 Grapher.Marker.CanCollide = false
 Grapher.Marker.Name = "Marker"
